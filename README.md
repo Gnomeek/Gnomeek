@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in CV, Communication Studies, Movies
 
-- 🌱 I’m currently learning at PolyU
+- 🌱 I’m currently learning at PolyU(Graduated), working at Bytedance
 
 - 💞️ I have been worked at Bytedance(Douyin), Tencent(Wechat Work)
 
