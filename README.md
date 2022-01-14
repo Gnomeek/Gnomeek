@@ -2,11 +2,11 @@
 
 - 👋 Hi, I’m @Gnomeek
 
-- 👀 I’m interested in CV, Communication Studies, Movies
+- 👀 gnomeek.github.io
 
-- 🌱 I’m currently learning at PolyU(Graduated), working at Bytedance
+- 🌱 I’m graduated from PolyU(Graduated), currently working at Bytedance
 
-- 💞️ I have been worked at Bytedance(Douyin), Tencent(Wechat Work)
+- 💞️ aki.web.cloudendpoint.cn
 
 <!---
 Gnomeek/Gnomeek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
