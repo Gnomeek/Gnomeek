@@ -2,11 +2,11 @@
 
 - 👋 Hi, I’m @Gnomeek
 
-- 👀 gnomeek.github.io
+- 👀 https://gnomeek.github.io
 
 - 🌱 I’m graduated from PolyU(Graduated), currently working at Bytedance
 
-- 💞️ aki.web.cloudendpoint.cn
+- 💞️ https://aki.web.cloudendpoint.cn
 
 <!---
 Gnomeek/Gnomeek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
