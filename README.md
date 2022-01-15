@@ -5,8 +5,6 @@
 
 - 👀 https://gnomeek.github.io
 
-- 🌱 I’m graduated from PolyU(Graduated), currently working at Bytedance
-
 - 💞️ https://aki.web.cloudendpoint.cn
 
 
