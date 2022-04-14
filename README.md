@@ -20,5 +20,8 @@
 #### Selected Repositories
 
 
-| <a href="https://github.com/gnomeek/fango"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gnomeek&repo=fango&theme=buefy&hide_border=true" /> </a> | <a href="https://github.com/gnomeek/douban_stats_widget"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gnomeek&repo=douban_stats_widget&theme=buefy&hide_border=true" /> </a>  | |
-| ------------- | ------------- | ------------- |
+| <a href="https://github.com/gnomeek/fango"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gnomeek&repo=fango&theme=buefy&hide_border=true" /> </a> | <a href="https://github.com/Gnomeek/GinFizz"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gnomeek&repo=GinFizz&theme=buefy&hide_border=true" /> </a> |
+| ------------- | ------------- |
+
+| <a href="https://github.com/Gnomeek/vue_nonsense"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gnomeek&repo=vue_nonsense&theme=buefy&hide_border=true" /> </a> | <a href="https://github.com/gnomeek/douban_stats_widget"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gnomeek&repo=douban_stats_widget&theme=buefy&hide_border=true" /> </a> |
+| ------------- | ------------- |
