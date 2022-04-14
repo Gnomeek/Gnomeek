@@ -1,6 +1,8 @@
 #### About Me
 
-<img align="right" src="https://qce78q.api.cloudendpoint.cn/generateDoubanStatsSvg?id=152076608" align="right" style="width: 150px; height: 150px;"/>
+<a href="https://douban.com/people/152076608">
+  <img align="right" src="https://qce78q.api.cloudendpoint.cn/generateDoubanStatsSvg?id=152076608" align="right" style="width: 150px; height: 150px;"/>
+</a>
 
 - 👋 Hi, I’m @Gnomeek
 
@@ -18,5 +20,9 @@
 #### Selected Repositories
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gnomeek&repo=fango&theme=buefy&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gnomeek&repo=douban_stats_widget&theme=buefy&hide_border=true" /> | |
+| <a href="https://github.com/gnomeek/fango">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gnomeek&repo=fango&theme=buefy&hide_border=true" />
+</a> | <a href="https://github.com/gnomeek/douban_stats_widget">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gnomeek&repo=douban_stats_widget&theme=buefy&hide_border=true" />
+</a> | |
 | ------------- | ------------- | ------------- |
