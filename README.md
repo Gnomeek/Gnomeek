@@ -1,6 +1,7 @@
 #### About Me
 
 <img align="right" src="https://qce78q.api.cloudendpoint.cn/generateDoubanStatsSvg?id=152076608" align="right" style="width: 150px; height: 150px;"/>
+
 - 👋 Hi, I’m @Gnomeek
 
 - 💼 SDET at Bytedance
