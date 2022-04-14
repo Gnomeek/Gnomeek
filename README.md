@@ -11,8 +11,8 @@
 - 👀 https://gnomeek.github.io
 
 - 💬 Contact me at wwwdotgnomeekatgmaildotcom or [Linkedin](https://www.linkedin.com/in/shuyu-zhao-43456812b)
-
-- 💞️ Currently I'm looking for Non-China based job position, SDE/SDET are both acceptable.
+<!-- 
+- 💞️ Currently I'm looking for Non-China based job position, SDE/SDET are both acceptable. -->
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=gnomeek&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnomeek&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
