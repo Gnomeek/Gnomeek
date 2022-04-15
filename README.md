@@ -11,6 +11,8 @@
 - 👀 https://gnomeek.github.io
 
 - 💬 Contact me at wwwdotgnomeekatgmaildotcom or [Linkedin](https://www.linkedin.com/in/shuyu-zhao-43456812b)
+
+- <img height="20" src="images/ftt.svg"> <img height="20" src="images/sol.svg"> <img height="20" src="images/eth.svg"> <img height="20" src="images/btc.svg"> <img height="20" src="images/cake.svg"> Hodler
 <!-- 
 - 💞️ Currently I'm looking for Non-China based job position, SDE/SDET are both acceptable. -->
 
