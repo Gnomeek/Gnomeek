@@ -1,7 +1,7 @@
 #### About Me
 
 <a href="https://douban.com/people/152076608">
-  <img align="right" src="https://qce78q.api.cloudendpoint.cn/generateDoubanStatsSvg?id=152076608" align="right" style="width: 150px; height: 150px;"/>
+  <img align="right" src="https://doubanstatswidget.herokuapp.com/douban?id=152076608" align="right" style="width: 150px; height: 150px;"/>
 </a>
 
 - 👋 Hi, I’m @Gnomeek
