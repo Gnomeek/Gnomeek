@@ -8,7 +8,7 @@
 
 - 💼 SDET at Bytedance
 
-- 👀 https://gnomeek.github.io
+- 👀 https://linktr.ee/akizhao
 
 - 💬 Contact me at wwwdotgnomeekatgmaildotcom or [Linkedin](https://www.linkedin.com/in/shuyu-zhao-43456812b)
 
