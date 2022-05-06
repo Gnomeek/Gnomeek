@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m @Gnomeek
 
-- 💼 SDET at Bytedance
+- 💼 SDE at Bytedance
 
 - 👀 https://linktr.ee/akizhao
 
