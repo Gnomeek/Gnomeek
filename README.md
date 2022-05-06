@@ -4,7 +4,7 @@
   <img align="right" src="https://doubanstatswidget.herokuapp.com/douban?id=152076608" align="right" style="width: 150px; height: 150px;"/>
 </a>
 
-- 👋 Hi, I’m @Gnomeek
+- 👋 Hi, I’m @Gnomeek, Pythonista, Gopher, Cinephile
 
 - 💼 SDE at Bytedance
 
