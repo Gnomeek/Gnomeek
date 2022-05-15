@@ -10,7 +10,7 @@
 
 - 👀 https://linktr.ee/akizhao
 
-- 💬 Contact me at wwwdotgnomeekatgmaildotcom or [Linkedin](https://www.linkedin.com/in/shuyu-zhao-43456812b)
+- 💬 Contact me at wwwdotgnomeekatgmaildotcom or [Linkedin](www.linkedin.com/in/akizhao)
 
 - <img height="20" src="images/ftt.svg"> <img height="20" src="images/sol.svg"> <img height="20" src="images/eth.svg"> <img height="20" src="images/btc.svg"> <img height="20" src="images/cake.svg"> Hodler
 <!-- 
