@@ -8,7 +8,7 @@
 
 - 💼 SDE at Bytedance
 
-- 👀 https://linktr.ee/akizhao
+- 👀 https://akizhao.eth.link
 
 - 💬 Contact me at wwwdotgnomeekatgmaildotcom or [Linkedin](www.linkedin.com/in/akizhao)
 
