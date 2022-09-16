@@ -6,11 +6,13 @@
 
 - 👋 Hi, I’m @Gnomeek, Pythonista, Gopher, Cinephile
 
-- 💼 SDE at Bytedance
+- 💼 SDE @TikTok, answer `Python` questions on [Stackoverflow](https://stackoverflow.com/users/19825642) sometimes: 
 
 - 👀 https://akizhao.eth.link
 
 - 💬 Contact me at wwwdotgnomeekatgmaildotcom or [Linkedin](www.linkedin.com/in/akizhao)
+
+- 
 
 - <img height="20" src="images/ftt.svg"> <img height="20" src="images/sol.svg"> <img height="20" src="images/eth.svg"> <img height="20" src="images/btc.svg"> <img height="20" src="images/cake.svg"> Hodler
 <!-- 
