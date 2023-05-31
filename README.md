@@ -6,7 +6,9 @@
 
 - 👋 Hi, I’m @Gnomeek, Pythonista, Gopher, Cinephile
 
-- 💼 SDE @TikTok
+- 💼 SDE [@wish](https://github.com/wish), Ex. SDE [@bytedance](https://github.com/bytedance)
+
+- 💼 Me at work [@shzhao-wish](https://github.com/shzhao-wish)
 
 - 👀 Answer `Python` questions on [Stackoverflow](https://stackoverflow.com/users/19825642)
 
