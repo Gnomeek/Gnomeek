@@ -12,6 +12,6 @@
 
 - 💬 [Linkedin](www.linkedin.com/in/akizhao)
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=gnomeek&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://leetcode-stats-six.vercel.app/?username=Gnomeek" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=gnomeek&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://leetcard.jacoblin.cool/Gnomeek?ext=heatmap" /> |
 | ------------- | ------------- |
 
