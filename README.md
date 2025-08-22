@@ -1,12 +1,10 @@
 #### About Me
 
-- 👋 Hi, I’m @Gnomeek, Pythonista, Gopher, Cinephile
+- 👋 Hi, I’m Will, I do `Python`, `Golang`, `Typescript`, `React`, `Java`, `Ruby`
 
 - 💼 SDE [@flexport](https://github.com/flexport), [@wish](https://github.com/wish), [@bytedance](https://github.com/bytedance)
 
 - 👀 Answer `Python` questions on [Stackoverflow](https://stackoverflow.com/users/19825642)
-
-- 👀 https://akizhao.eth.link
 
 - 💬 [Linkedin](www.linkedin.com/in/akizhao)
 
