@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Gnomeek, Pythonista, Gopher, Cinephile
 
-- 💼 Ex. SDE [@wish](https://github.com/wish), [@bytedance](https://github.com/bytedance)
+- 💼 SDE [@flexport](https://github.com/flexport), [@wish](https://github.com/wish), [@bytedance](https://github.com/bytedance)
 
 - 👀 Answer `Python` questions on [Stackoverflow](https://stackoverflow.com/users/19825642)
 
